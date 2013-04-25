@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer
+END
+OADataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OADataFetcher.h
+END
+OAToken_KeychainExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAToken_KeychainExtensions.h
+END
+OAuthConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAuthConsumer.h
+END
+OAToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAToken.h
+END
+OAHMAC_SHA1SignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+END
+OASignatureProviding.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OASignatureProviding.h
+END
+OAMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAMutableURLRequest.h
+END
+OAAsynchronousDataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAAsynchronousDataFetcher.h
+END
+OARequestParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OARequestParameter.h
+END
+NSURL+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/NSURL+Base.h
+END
+OAConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAConsumer.h
+END
+NSString+URLEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/NSString+URLEncoding.h
+END
+OAServiceTicket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAServiceTicket.h
+END
+OAPlaintextSignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/OAPlaintextSignatureProvider.h
+END
+NSMutableURLRequest+Parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/TWITHIT/trunk/Libraries/OAuthConsumer/NSMutableURLRequest+Parameters.h
+END

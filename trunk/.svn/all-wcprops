@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/231/TWITHIT/trunk
+END
+TwitHit-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/222/TWITHIT/trunk/TwitHit-Info.plist
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/33/TWITHIT/trunk/main.m
+END
+TwitHit_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/33/TWITHIT/trunk/TwitHit_Prefix.pch
+END
+XAuthTwitterEngineDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/33/TWITHIT/trunk/XAuthTwitterEngineDelegate.h
+END
+XAuthTwitterEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/TWITHIT/trunk/XAuthTwitterEngine.h
+END
+BioViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/231/TWITHIT/trunk/BioViewController.xib
+END
+jQueryInject.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/TWITHIT/trunk/jQueryInject.txt
+END
+XAuthTwitterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/231/TWITHIT/trunk/XAuthTwitterViewController.xib
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/33/TWITHIT/trunk/MainWindow.xib
+END
+XAuthTwitterEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/TWITHIT/trunk/XAuthTwitterEngine.m
+END
+BioViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/231/TWITHIT/trunk/BioViewController.h
+END
+UIAlertView+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/TWITHIT/trunk/UIAlertView+Helper.h
+END
+ExchangeCredentialsOperationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/TWITHIT/trunk/ExchangeCredentialsOperationDelegate.h
+END
+BioViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/231/TWITHIT/trunk/BioViewController.m
+END
+jQueryInjectLandscape.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/33/TWITHIT/trunk/jQueryInjectLandscape.txt
+END
+entitlements.plist
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/33/TWITHIT/trunk/entitlements.plist
+END
+FriendsListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/231/TWITHIT/trunk/FriendsListViewController.xib
+END
+TwitterBumpViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/231/TWITHIT/trunk/TwitterBumpViewController.xib
+END
+UIAlertView+Helper.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/TWITHIT/trunk/UIAlertView+Helper.m
+END
+ExchangeCredentialsOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/TWITHIT/trunk/ExchangeCredentialsOperation.h
+END
+Icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/231/TWITHIT/trunk/Icon.png
+END
+libxml2.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/33/TWITHIT/trunk/libxml2.dylib
+END
+ExchangeCredentialsOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/TWITHIT/trunk/ExchangeCredentialsOperation.m
+END

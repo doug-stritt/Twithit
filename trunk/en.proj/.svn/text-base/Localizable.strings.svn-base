@@ -1,0 +1,44 @@
+/* 
+   Localizable.strings
+   TwitHit
+
+   Created by Doug Strittmatter on 8/2/10.
+   Copyright 2010 Spies & Assassins. All rights reserved.
+ */
+
+"LocaleIdentifier" = "en";
+
+"Logout" = "Logout";
+"Login" = "Login";
+"Friends" = "Friends";
+"Hit" = "Hit";
+
+"BumpMsg" = "Bump with another TwitHit owner to start transfer.";
+"WaitMsg" = "Please Wait…";
+
+"Bio" = "Bio";
+"Biography" = "Biography";
+"Delete" = "Delete";
+"Name" = "Name";
+"Website" = "Website";
+"Location" = "Location";
+"Back" = "Back";
+"DeleteFriend" = "Delete Friend";
+"DeleteMsg" = "Are you sure you want to delete this friend?";
+"Cancel" = "Cancel";
+"OK" = "OK";
+"NotAvailable" = "Not Available";
+"Added" = "Added";
+"FollowingMsg1" = "You're now following";
+"FollowingMsg2" = "on Twitter!";
+
+"InvalidLoginTitle" = "Invalid Login";
+"InvalidLoginMsg" = "Your username and password could not be verified. Double check that you entered them correctly and try again.";	
+"TwitterDownTitle" = "Twitter's Down";
+"TwitterDownMsg" = "Twitter is down or being updated. Please wait a few seconds and try again.";	
+"TwitterBusyTitle" = "Twitter's Busy";
+"TwitterBusyMsg" = "Twitter is overloaded. Please wait a few seconds and try again.";		
+"OfflineTitle" = "You're offline!";
+"OfflineMsg" = "Sorry, it looks like you lost your Internet connection. Please reconnect and try again.";
+"SecureTitle" = "Secure connection failed";
+"SecureMsg" = "Couldn't connect to Twitter. This is most likely a temporary issue, please try again.";						

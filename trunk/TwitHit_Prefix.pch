@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TwitterBump' target in the 'TwitterBump' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
